@@ -1,6 +1,6 @@
 # Hi, I'm Gandharv 👋
 
-**M.Sc Economics student at IIT Kanpur ** · I use data to find out *why* a business number moves, and what to do about it.
+M.Sc Economics student at IIT Kanpur  · I use data to find out *why* a business number moves, and what to do about it.
 
 I combine econometrics (telling cause from coincidence) with hands-on SQL, Python and Tableau. Every project here starts with a written analysis plan and ends with a clear recommendation.
 
