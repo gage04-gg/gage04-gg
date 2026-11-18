@@ -1,10 +1,10 @@
 # Hi, I'm Gandharv 👋
 
-M.Sc Economics student at IIT Kanpur  · I use data to find out *why* a business number moves, and what to do about it.
+I am M.Sc Economics student at IIT Kanpur  · I love working with data to find out what valuable insight the raw number hides. 
 
-I combine econometrics (telling cause from coincidence) with hands-on SQL, Python and Tableau. Every project here starts with a written analysis plan and ends with a clear recommendation.
 
-### 📊 Featured projects
+
+### 📊 Key projects
 
 | Project | Question | Result | Tools |
 | --- | --- | --- | --- |
@@ -16,10 +16,10 @@ I combine econometrics (telling cause from coincidence) with hands-on SQL, Pytho
 | [DICE-FER Replication](https://github.com/gage04-gg/Decoupling-Identity-Confounders-for-Facial-Expression-Recognition) | Recognise expressions without identity bias | 82.7% accuracy on RAF-DB | PyTorch |
 
 ### 🛠️ Tools
-SQL (PostgreSQL) · Python (pandas, statsmodels, scikit-learn) · R · Excel · Tableau · Git
+Python · SQL · Data Analysis 
 
 ### 📫 Contact
-[LinkedIn](https://linkedin.com/in/gandharvgedam) · gandharvg25@iitk.ac.in
+[LinkedIn](https://linkedin.com/in/gandharvgedam) · 
 
 
 <!--
